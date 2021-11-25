@@ -24,7 +24,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          {"Lenguajes de Programación en WWW"}
         </Link>
       </h1>
     </div>
